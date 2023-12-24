@@ -11,6 +11,22 @@
 <a href="https://linkedin.com/cowanweks" target="blank"><img src="https://img.shields.io/linkedin/follow/cowanweks?logo=linkedin&style=for-the-badge" alt="cowanweks" /></a>
 <a href="https://tiktok.com/cowanweks" target="blank"><img src="https://img.shields.io/tiktok/follow/cowanweks?logo=tiktok&style=for-the-badge" alt="cowanweks" /></a>
 
+###  Advent of Code
+
+<span> 
+    Day 
+    ![](https://img.shields.io/badge/day%20📅-22-blue)
+</span>
+<span>
+    Total Stars
+    ![](https://img.shields.io/badge/stars%20⭐-34-yellow)
+</span>
+
+<span>
+    Days Completed
+    ![](https://img.shields.io/badge/days%20completed-17-red)
+</span>
+
 - 🔭 I’m currently working on **AcadMaster**
 
 ### Blogs posts

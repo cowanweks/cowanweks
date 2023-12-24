@@ -13,19 +13,9 @@
 
 ###  Advent of Code
 
-<span> 
-    Day 
-    ![](https://img.shields.io/badge/day%20📅-22-blue)
-</span>
-<span>
-    Total Stars
-    ![](https://img.shields.io/badge/stars%20⭐-34-yellow)
-</span>
-
-<span>
-    Days Completed
-    ![](https://img.shields.io/badge/days%20completed-17-red)
-</span>
+Days ![](https://img.shields.io/badge/day%20📅-22-blue)
+Total Stars ![](https://img.shields.io/badge/stars%20⭐-34-yellow)
+Days Completed ![](https://img.shields.io/badge/days%20completed-17-red)
 
 - 🔭 I’m currently working on **AcadMaster**
 

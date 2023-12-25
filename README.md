@@ -11,6 +11,11 @@
 <a href="https://linkedin.com/cowanweks" target="blank"><img src="https://img.shields.io/linkedin/follow/cowanweks?logo=linkedin&style=for-the-badge" alt="cowanweks" /></a>
 <a href="https://tiktok.com/cowanweks" target="blank"><img src="https://img.shields.io/tiktok/follow/cowanweks?logo=tiktok&style=for-the-badge" alt="cowanweks" /></a>
 
+
+### Github Stats
+
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+
 ###  Advent of Code
 
 Days ![](https://img.shields.io/badge/day%20📅-22-blue)

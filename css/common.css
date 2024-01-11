@@ -1,0 +1,56 @@
+*,
+*::after,
+*::before,
+html {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* @font-face {
+    font-family: 'DM Mono';
+    src: url('../assets/fonts/DM_Mono/DMMono-Regular.ttf');
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: 'DM Mono';
+    src: url('../assets/fonts/DM_Mono/DMMono-Italic.ttf');
+    font-style: italic;
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: 'DM Mono';
+    src: url('../assets/fonts/DM_Mono/DMMono-Medium.ttf');
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: 'DM Mono';
+    src: url('../assets/fonts/DM_Mono/DMMono-MediumItalic.ttf');
+    font-style: italic;
+    font-weight: 500;
+} */
+
+:root {
+    font-size: 16px;
+    font-family: 'DM Mono';
+}
+
+html {
+    background: #333;
+}
+
+body {
+    background: none;
+    min-height: 100dvh;
+}
+
+#header {
+    background-color: rgba(255, 255, 255, 0.4);
+}
+
+h1 {
+    font-family: 'Montserrat', sans-serif;
+}

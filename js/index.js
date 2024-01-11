@@ -1,3 +1,11 @@
+const carouselImages = document.querySelectorAll("#hero #carousel .image")
+
+
+document.addEventListener("DOMContentLoaded", () => {
+
+    // setInterval(scrollCarousel, 5000);
+})
+
 window.addEventListener("scroll", () => {
     let mybutton = document.getElementById("btn__totop");
 
@@ -33,4 +41,25 @@ function openTab(evt, tabname) {
 function toTop() {
     document.body.scrollTop = 0;
     document.documentElement.scrollTop = 0;
+}
+
+
+window.addEventListener('scroll', () => {
+    const navbar = document.getElementById('header');
+    let top = navbar.offsetTop;
+
+    if (window.scrollY >= top) {
+        navbar.classList.add('sticky');
+    } else {
+        navbar.classList.remove('sticky');
+    }
+});
+
+
+function scrollCarousel() {
+    const images = []
+    console.log("Hello")
+    carouselImages.forEach(image => {
+        image.style.display = "none"
+    })
 }

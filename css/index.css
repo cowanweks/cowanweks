@@ -55,3 +55,11 @@
     padding: 15px;
     border-radius: 4px;
 }
+
+#hero .btn{
+    transition: all 0.3s ease-in-out;
+}
+
+#hero:hover > .btn{
+    background: white;
+}

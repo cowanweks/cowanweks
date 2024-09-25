@@ -8,7 +8,7 @@
 <header>
     <!-- Image -->
 <img src="https://raw.githubusercontent.com/cowanweks/cowanweks/main/profile-preview.jpg"/>
-    <p align="center">
+<p align="center">
   <a href="http://twitter.com/cowanweks">
     <img src="https://img.shields.io/badge/follow-%40cowanweks%20130k+-1DA1F2?label=Twitter&logo=twitter&style=for-the-badge&color=1A8CD8" alt="Cowan Kanga Wekesa"/>
   </a>
@@ -22,30 +22,6 @@
 </header>
 
 <main>
-
-### Profile Stats
-
-<p align="left">
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://github-profile-trophy.vercel.app/?username=cowanweks&column=7&theme=flat&margin-w=15&margin-h=15" alt="cowanweks" />
-</a>
-</p>
-
-|<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cowanweks&" alt="cowanweks" />| <img align="center" src="https://github-readme-stats.vercel.app/api?username=cowanweks&show_icons=true&locale=en" alt="cowanweks" /> |
-| - | - |
-| <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cowanweks&show_icons=true&locale=en&layout=compact" alt="cowanweks" /> | |
-
-### Advent of Code
-
-Days ![](https://img.shields.io/badge/day%20-24-blue)
-Total Stars ![](https://img.shields.io/badge/stars%20⭐-0-yellow)
-Days Completed ![](https://img.shields.io/badge/days%20completed-0-red)
-
-### Currently Working On
-
-1. **AcadMaster**
-1. **Key Manager**
-1. **Ultimate Motors**
 
 <div>
     <h3 align="left">Languages and Tools:</h3>
@@ -109,6 +85,30 @@ Days Completed ![](https://img.shields.io/badge/days%20completed-0-red)
 </table>
 
 </div>
+
+### Profile Stats
+
+<p align="left">
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+<img src="https://github-profile-trophy.vercel.app/?username=cowanweks&column=7&theme=flat&margin-w=15&margin-h=15" alt="cowanweks" />
+</a>
+</p>
+
+|<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cowanweks&" alt="cowanweks" />| <img align="center" src="https://github-readme-stats.vercel.app/api?username=cowanweks&show_icons=true&locale=en" alt="cowanweks" /> |
+| - | - |
+| <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cowanweks&show_icons=true&locale=en&layout=compact" alt="cowanweks" /> | |
+
+### Advent of Code
+
+Days ![](https://img.shields.io/badge/day%20-24-blue)
+Total Stars ![](https://img.shields.io/badge/stars%20⭐-0-yellow)
+Days Completed ![](https://img.shields.io/badge/days%20completed-0-red)
+
+### Currently Working On
+
+1. **AcadMaster**
+1. **Key Manager**
+1. **Ultimate Motors**
 
 </main>
 

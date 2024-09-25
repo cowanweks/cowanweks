@@ -1,5 +1,5 @@
 <!-- Image -->
-<img src=""/>
+<img src="https://raw.githubusercontent.com/cowanweks/cowanweks/main/profile-preview.jpg"/>
 
 <h1 align="center">Hi! I'm Cowan Kanga Wekesa</h1>
 <h3 align="center">A passionate Software Developer from Kenya</h3>

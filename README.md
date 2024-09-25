@@ -23,7 +23,7 @@
 
 <main>
 
-<div>
+<div style="min-height: fit-content;">
     <h3 align="left">Languages and Tools:</h3>
     <table>
     <tr>

@@ -80,6 +80,7 @@
 <td><a href="https://gcc.gnu.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gcc/gcc-original.svg" alt="gcc" width="40" height="40"/> </a></td>
 <td><a href="https://llvm.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/llvm/llvm-original.svg" alt="llvm" width="40" height="40"/> </a></td>
 <td><a href="https://www.solidjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidjs/solidjs-original.svg" alt="solidjs" width="40" height="40"/> </a></td>
+<td><a href="https://www.solidjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="solidjs" width="40" height="40"/> </a></td>
 </tr>
 </table>
 

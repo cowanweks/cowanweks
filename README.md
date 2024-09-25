@@ -1,10 +1,5 @@
 <html>
-<head>
-    <link rel="stylesheet" href="https://raw.githubusercontent.com/cowanweks/cowanweks/main/styles.css">
-</head>
-
 <body>
-
 <header>
     <!-- Image -->
 <img src="https://raw.githubusercontent.com/cowanweks/cowanweks/main/profile-preview.jpg"/>

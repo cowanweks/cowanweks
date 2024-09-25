@@ -9,13 +9,13 @@
     <!-- Image -->
 <img src="https://raw.githubusercontent.com/cowanweks/cowanweks/main/profile-preview.jpg"/>
 <p align="center">
-  <a target="_blank href="http://twitter.com/cowanweks">
+  <a target="_blank" href="http://twitter.com/cowanweks">
     <img src="https://img.shields.io/badge/follow-%40cowanweks%20-1DA1F2?label=Twitter&logo=twitter&style=for-the-badge&color=1A8CD8" alt="Cowan Kanga Wekesa"/>
   </a>
-  <a target="_blank href="http://instagram.com/cowanweks">
+  <a target="_blank" href="http://instagram.com/cowanweks">
     <img src="https://img.shields.io/badge/follow-%40cowanweks%20-1DA1F2?label=Instagram&logo=instagram&style=for-the-badge&color=red" alt="Cowan Kanga Wekesa"/>
   </a>
-  <a target="_blank href="http://linkedin.com//in/cowanweks">
+  <a target="_blank" href="http://linkedin.com//in/cowanweks">
     <img src="https://img.shields.io/badge/follow-%40cowanweks%20-1DA1F2?label=LinkedIn&logo=linkedin&style=for-the-badge&color=1A8CD8" alt="Cowan Kanga Wekesa"/>
   </a>
 </p>

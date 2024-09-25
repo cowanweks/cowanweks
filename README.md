@@ -69,7 +69,7 @@ Days Completed ![](https://img.shields.io/badge/days%20completed-0-red)
 </p>
 </div>
 
-<div style="display:flex;flex-wrap-wrap;column-gap:20px;">
+<div style="display:flex;flex-wrap-wrap;column-gap:20px;row-gap:20px;">
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cowanweks&show_icons=true&locale=en&layout=compact" alt="cowanweks" />
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cowanweks&" alt="cowanweks" />

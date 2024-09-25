@@ -27,7 +27,7 @@
 
 <p align="left">
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://github-profile-trophy.vercel.app/?username=cowanweks&column=5&theme=flat&margin-w=15&margin-h=15" alt="cowanweks" />
+<img src="https://github-profile-trophy.vercel.app/?username=cowanweks&column=7&theme=flat&margin-w=15&margin-h=15" alt="cowanweks" />
 </a>
 </p>
 

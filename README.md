@@ -10,13 +10,12 @@
     <!-- Image -->
 <img src="https://raw.githubusercontent.com/cowanweks/cowanweks/main/profile-preview.jpg"/>
     <p align="left" style="margin-top:20px;">
-        <!-- <h3 align="left">Connect with me:</h3> -->
         <a href="https://twitter.com/cowanweks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cowanweks" height="30" width="40" /></a>
-        <a href="https://linkedin.com/in/cowanweks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cowanweks" height="30" width="40" /></a>
-        <a href="https://stackoverflow.com/users/cowanweks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="cowanweks" height="30" width="40" /></a>
-        <a href="https://fb.com/cowanweks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="cowanweks" height="30" width="40" /></a>
+                <a href="https://fb.com/cowanweks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="cowanweks" height="30" width="40" /></a>
         <a href="https://instagram.com/cowanweks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cowanweks" height="30" width="40" /></a>
         <a href="https://medium.com/@cowanweks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@cowanweks" height="30" width="40" /></a>
+        <a href="https://linkedin.com/in/cowanweks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cowanweks" height="30" width="40" /></a>
+        <a href="https://stackoverflow.com/users/cowanweks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="cowanweks" height="30" width="40" /></a>
     </p>
 </header>
 
@@ -26,7 +25,7 @@
 
 <p align="left">
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://github-profile-trophy.vercel.app/?username=cowanweks&column=4&theme=flat&margin-w=15&margin-h=15&no-bg=true" alt="cowanweks" />
+<img src="https://github-profile-trophy.vercel.app/?username=cowanweks&column=5&theme=flat&margin-w=15&margin-h=15&no-bg=true" alt="cowanweks" />
 </a>
 </p>
 
@@ -69,7 +68,9 @@ Days Completed ![](https://img.shields.io/badge/days%20completed-0-red)
 </p>
 </div>
 
-<div style="display:flex;flex-wrap-wrap;column-gap:20px;row-gap:20px;">
+<div style="display:grid;grid-template-columns: repeat(2, 1fr);
+grid-template-rows: repeat(2, 1fr);
+column-gap:20px;row-gap:20px;">
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cowanweks&show_icons=true&locale=en&layout=compact" alt="cowanweks" />
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cowanweks&" alt="cowanweks" />

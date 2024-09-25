@@ -22,8 +22,6 @@
 </header>
 
 <main>
-
-<div >
     <h3 align="left">Languages and Tools:</h3>
     <table style="over-flow:hidden;">
     <tr>
@@ -83,8 +81,6 @@
 
 <tr>
 </table>
-
-</div>
 
 ### Profile Stats
 

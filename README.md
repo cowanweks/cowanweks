@@ -110,14 +110,6 @@ Days Completed ![](https://img.shields.io/badge/days%20completed-0-red)
 
 </div>
 
-### Blogs posts
-
-<p style="min-height:300px">
-<!-- BLOG-POST-LIST:START -->
-
-<!-- BLOG-POST-LIST:END -->
-</p>
-
 </main>
 
 </body>

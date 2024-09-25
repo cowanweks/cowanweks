@@ -10,13 +10,13 @@
 <img src="https://raw.githubusercontent.com/cowanweks/cowanweks/main/profile-preview.jpg"/>
 <p align="center">
   <a href="http://twitter.com/cowanweks">
-    <img src="https://img.shields.io/badge/follow-%40cowanweks%20130k+-1DA1F2?label=Twitter&logo=twitter&style=for-the-badge&color=1A8CD8" alt="Cowan Kanga Wekesa"/>
+    <img src="https://img.shields.io/badge/follow-%40cowanweks%20-1DA1F2?label=Twitter&logo=twitter&style=for-the-badge&color=1A8CD8" alt="Cowan Kanga Wekesa"/>
   </a>
-  <a href="https://instagram.com/cowanweks">
-    <img src="https://img.shields.io/discord/699608417039286293?logo=discord&style=for-the-badge&color=404EED" alt="Cowan Kanga Wekesa"/>
+  <a href="http://instagram.com/cowanweks">
+    <img src="https://img.shields.io/badge/follow-%40cowanweks%20-1DA1F2?label=Instagram&logo=instagram&style=for-the-badge&color=red" alt="Cowan Kanga Wekesa"/>
   </a>
-  <a href="http://youtube.com/eddiejaoude?sub_confirmation=1">
-    <img src="https://img.shields.io/youtube/channel/subscribers/UC5mnBodB73bR88fLXHSfzYA?style=for-the-badge&logo=youtube&label=Youtube&color=FF0000" alt="Eddie Jaoude's YouTube channel"/>
+  <a href="http://linkedin.com/cowanweks">
+    <img src="https://img.shields.io/badge/follow-%40cowanweks%20-1DA1F2?label=LinkedIn&logo=linkedin&style=for-the-badge&color=1A8CD8" alt="Cowan Kanga Wekesa"/>
   </a>
 </p>
 </header>

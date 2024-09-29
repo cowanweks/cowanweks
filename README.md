@@ -98,17 +98,7 @@
 | - | - |
 | <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cowanweks&show_icons=true&locale=en&layout=compact" alt="cowanweks" /> | |
 
-### Advent of Code
-
-Days ![](https://img.shields.io/badge/day%20-24-blue)
-Total Stars ![](https://img.shields.io/badge/stars%20⭐-0-yellow)
-Days Completed ![](https://img.shields.io/badge/days%20completed-0-red)
-
 ### Currently Working On
-
-1. **AcadMaster**
-1. **Key Manager**
-1. **Ultimate Motors**
 
 | N.o | Title | Link |
 | ----| ------| -----|

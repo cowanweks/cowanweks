@@ -102,8 +102,8 @@
 
 | N.o | Title | Link |
 | ----| ------| -----|
-| 1.  | Key Manager  | [Key Manager](https://github.com/cowanweks/keyman)|
-| 1.  | Ultimate Motors | [Ultimate Motors](https://github.com/cowanweks/keyman)
+| 1. | Key Manager  | [Key Manager](https://github.com/cowanweks/keyman)|
+| 2. | Ultimate Motors | [Ultimate Motors](https://github.com/cowanweks/keyman)
 
 </main>
 

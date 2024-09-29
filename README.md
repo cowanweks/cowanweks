@@ -83,6 +83,7 @@
 <td><a href="https://www.solidjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="solidjs" width="40" height="40"/> </a></td>
 <td><a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a></td>
  <td><a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a></td>
+  <td><a href="https://cmake.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/cmake/cmake-icon.svg" alt="cmake" width="40" height="40"/> </a></td>
 </tr>
 </table>
 

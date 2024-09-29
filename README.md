@@ -100,10 +100,10 @@
 
 ### Currently Working On
 
-| N.o | Title | Link |
-| ----| ------| -----|
-| 1. | Key Manager  | [Key Manager](https://github.com/cowanweks/keyman)|
-| 2. | Ultimate Motors | [Ultimate Motors](https://github.com/cowanweks/keyman)
+| N.o | Preview      | Title          | Link                  |
+| ----| -------------| ---------------|-----------------------|
+| 1.  |              |Key Manager     | [Key Manager](https://github.com/cowanweks/keyman)     |
+| 2.  |              |Ultimate Motors | [Ultimate Motors](https://github.com/cowanweks/keyman) |
 
 </main>
 

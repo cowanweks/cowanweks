@@ -89,7 +89,7 @@
 </tr>
 </table>
 
-### Profile Stats
+### Profile Statistics
 
 <p align="left">
 <a href="https://github.com/ryo-ma/github-profile-trophy">

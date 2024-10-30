@@ -89,7 +89,7 @@
 </tr>
 </table>
 
-### Profil views
+### Profile views
 
 ![](https://count.getloli.com/get/@cowanweks.github.readme)
 

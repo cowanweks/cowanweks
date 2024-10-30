@@ -110,6 +110,10 @@
 
 ![BEPb's github activity graph](https://raw.githubusercontent.com/cowanweks/cowanweks/output/github-contribution-grid-snake.svg)
 
+<img src="https://cr-summary-widget.azurewebsites.net/api/api?username=cowanweks" width="auto"></img>
+<!--  2d history skills для обновления картинки нужно обновить профиль на странице https://profile.codersrank.io/user/bepb-->
+<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=cowanweks&show-other-skills=true" width="auto"></img>
+
 <img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
 
 </main>

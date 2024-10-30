@@ -108,6 +108,8 @@
 | 1.  |              |Key Manager     | [Key Manager](https://github.com/cowanweks/keyman)     |
 | 2.  |              |Ultimate Motors | [Ultimate Motors](https://github.com/cowanweks/keyman) |
 
+<img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
+
 </main>
 
 </body>

@@ -89,6 +89,10 @@
 </tr>
 </table>
 
+### Profil views
+
+![](https://count.getloli.com/get/@BEPb.github.readme)
+
 ### Profile Statistics
 
 <p align="left">
@@ -108,11 +112,7 @@
 | 1.  |              |Key Manager     | [Key Manager](https://github.com/cowanweks/keyman)     |
 | 2.  |              |Ultimate Motors | [Ultimate Motors](https://github.com/cowanweks/keyman) |
 
-![BEPb's github activity graph](https://raw.githubusercontent.com/cowanweks/cowanweks/output/github-contribution-grid-snake.svg)
-
-<img src="https://cr-summary-widget.azurewebsites.net/api/api?username=cowanweks" width="auto"></img>
-<!--  2d history skills для обновления картинки нужно обновить профиль на странице https://profile.codersrank.io/user/bepb-->
-<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=cowanweks&show-other-skills=true" width="auto"></img>
+![](./profile-3d-contrib/profile-green-animate.svg)
 
 <img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
 

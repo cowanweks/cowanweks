@@ -108,9 +108,7 @@
 | 1.  |              |Key Manager     | [Key Manager](https://github.com/cowanweks/keyman)     |
 | 2.  |              |Ultimate Motors | [Ultimate Motors](https://github.com/cowanweks/keyman) |
 
-
 ![BEPb's github activity graph](https://raw.githubusercontent.com/cowanweks/cowanweks/output/github-contribution-grid-snake.svg)
-
 
 <img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
 

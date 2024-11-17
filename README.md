@@ -1,4 +1,11 @@
 <html>
+<head>
+<style>
+  td, th {
+     border: none!important;
+  }
+</style>
+</head>
 <body>
 <header>
     <!-- Image -->

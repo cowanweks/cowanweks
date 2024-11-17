@@ -182,8 +182,7 @@
 <img alt="javascript" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
 </a>
 </tr></div>
-<h3 class="my-8">Profile views </h3>
-<embed frameborder="0" src="https://count.getloli.com/get/@cowanweks.github.readme"></embed>
+
 <h3 class="my-8">Profile Statistics</h3>
 <div class="">
 <p align="left" class="mb-4 mt-4">

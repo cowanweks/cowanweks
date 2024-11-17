@@ -19,7 +19,7 @@
 </header>
 <main class="px-4">
 <h3 class="my-8">Languages and Tools:</h3>
-<div class="flex gap-8 flex-wrap">
+<div style="display: flex; gap: 32; flex-wrap: wrap;">
 <a href="https://aws.amazon.com" rel="noreferrer" target="_blank">
 <img alt="aws" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/>
 </a>

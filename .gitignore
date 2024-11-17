@@ -21,3 +21,7 @@ rad.json
 #Test results file
 TestResults.xml
 .hintrc
+README.md
+venv
+profile-3d-contrib
+github-metrics.svg

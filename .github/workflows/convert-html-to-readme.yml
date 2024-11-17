@@ -1,4 +1,4 @@
-name: Convert HTML to README
+name: Create README file
 
 on:
   push:
@@ -32,8 +32,8 @@ jobs:
 
       - name: Commit and push the generated README.md
         run: |
-          git config --global user.name "github-actions"
-          git config --global user.email "github-actions@github.com"
+          git config --global user.name 'cowanweks'
+          git config --global user.email 'cowannwekesa@gmail.com'
           git add README.md
           git commit -m "Update README from HTML"
           git push

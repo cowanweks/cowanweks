@@ -219,7 +219,7 @@
 </div>
 </main>
 <footer>
-<img align="center" alt="" src="https://raw.githubusercontent.com/cowanweks/cowanweks/main/profile-3d-contrib/profile-green-animate.svg"/>
+<img align="center" alt="" src="https://raw.githubusercontent.com/cowanweks/cowanweks/main/profile-3d-contrib/profile-south-season-animate.svg"/>
 </footer>
 </body>
 </html>

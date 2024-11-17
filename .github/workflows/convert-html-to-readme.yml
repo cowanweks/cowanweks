@@ -30,6 +30,9 @@ jobs:
         run: |
           python convert_html_to_markdown.py  # Run the conversion script
 
+      - name: Check Git status
+        run: git status
+
       - name: Commit and push the generated README.md
         run: |
           git config --global user.name "cowanweks"

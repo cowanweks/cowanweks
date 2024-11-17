@@ -38,5 +38,5 @@ jobs:
           git commit -m "Update README from HTML"
           git push
         env:
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }} # Automatically provided token for pushing changes
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # Automatically provided token for pushing changes
 

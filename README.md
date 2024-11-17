@@ -194,6 +194,7 @@
 <img alt="cowanweks" class="mb-4 mt-4" src="https://github-readme-stats.vercel.app/api/top-langs?username=cowanweks&amp;show_icons=true&amp;locale=en&amp;layout=compact"/>
 </div>
 </div>
+<img alt="" src="https://raw.githubusercontent.com/cowanweks/cowanweks/output/github-contribution-grid-snake.svg"/>
 <!-- Projects in progress -->
 <div class="">
 <h3 class="my-8">Am Currently Working On</h3>
@@ -218,7 +219,7 @@
 </div>
 </main>
 <footer>
-<img alt="" src="./profile-3d-contrib/profile-green-animate.svg"/>
+<img align="center" alt="" src="https://raw.githubusercontent.com/cowanweks/cowanweks/main/profile-3d-contrib/profile-green-animate.svg"/>
 <img align="center" alt="Metrics" src="https://raw.githubusercontent.com/cowanweks/cowanweks/main/github-metrics.svg" width="400">
 </img></footer>
 </body>

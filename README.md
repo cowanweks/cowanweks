@@ -1,6 +1,5 @@
 <html>
 <head>
-<!-- <script src="https://cdn.tailwindcss.com?plugins=forms,typography,aspect-ratio,line-clamp,container-queries"></script> -->
 </head>
 <body class="flex flex-col items-center h-dvh">
 <header>
@@ -220,7 +219,7 @@
 </main>
 <footer>
 <img alt="" src="./profile-3d-contrib/profile-green-animate.svg"/>
-<img align="center" alt="Metrics" src="/github-metrics.svg" width="400">
+<img align="center" alt="Metrics" src="https://raw.githubusercontent.com/cowanweks/cowanweks/main/github-metrics.svg" width="400">
 </img></footer>
 </body>
 </html>

@@ -182,8 +182,6 @@
 <img alt="javascript" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
 </a>
 </tr></div>
-<h3 class="my-8">Profile views </h3>
-<embed frameborder="0" src="https://count.getloli.com/get/@cowanweks.github.readme"/>
 <h3 class="my-8">Profile Statistics</h3>
 <div class="">
 <p align="left" class="mb-4 mt-4">
@@ -222,7 +220,7 @@
 </main>
 <footer>
 <img alt="" src="./profile-3d-contrib/profile-green-animate.svg"/>
-<!-- <img align="center" src="/github-metrics.svg" alt="Metrics" width="400" /> -->
-</footer>
+<img align="center" alt="Metrics" src="/github-metrics.svg" width="400">
+</img></footer>
 </body>
 </html>

@@ -30,13 +30,15 @@ jobs:
         run: |
           python convert_html_to_markdown.py  # Run the conversion script
 
+      - name: Configure git
+        run: git config --global user.name "cowanweks"
+          git config --global user.email "cowannwekesa@gmail.com"
+
       - name: Check Git status
         run: git status
 
       - name: Commit and push the generated README.md
         run: |
-          git config --global user.name "cowanweks"
-          git config --global user.email "cowannwekesa@gmail.com"
           git add -A README.md
           git commit -m "Update README from HTML"
           git push

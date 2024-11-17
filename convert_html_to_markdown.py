@@ -1,12 +1,10 @@
-import html2text
+import html2markdown
 import os
 
 
 def convert_html_to_markdown(html_content):
-    h = html2text.HTML2Text()
-    h.ignore_links = False  # Keep links
-    h.ignore_images = False  # Keep images
-    return h.handle(html_content)
+    markdown = html2markdown.convert(html_content)
+    return markdown
 
 
 def main():

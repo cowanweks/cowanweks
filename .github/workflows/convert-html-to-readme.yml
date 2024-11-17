@@ -1,26 +1,42 @@
-name: GitHub-Profile-3D-Contrib-fixed
+name: Convert HTML to README
 
 on:
-  schedule: # 03:00 JST == 18:00 UTC
-    - cron: "0 18 * * *"
-  workflow_dispatch:
+  push:
+    branches:
+      - main # Trigger this action on push to the main branch
+  pull_request:
+    branches:
+      - main # Optionally trigger on pull requests
 
 jobs:
-  build:
+  convert_html_to_markdown:
     runs-on: ubuntu-latest
-    name: generate-github-profile-3d-contrib
+
     steps:
-      - uses: actions/checkout@v3
-      - uses: gumbobrot/github-profile-3d-contrib@0.7.2
-        env:
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
-          USERNAME: ${{ github.repository_owner }}
-      - name: Pull latest changes
-        run: git pull --force origin main
-      - name: Commit & Push
+      - name: Checkout repository
+        uses: actions/checkout@v2 # Check out the repository
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: 3.9 # Use the Python version that fits your needs
+
+      - name: Install dependencies
         run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
-          git add -A .
-          git commit -m "generated"
+          python -m pip install --upgrade pip
+          pip install html2markdown  # Install the html2markdown library
+
+      - name: Run the HTML to Markdown conversion script
+        run: |
+          python convert_html_to_markdown.py  # Run the conversion script
+
+      - name: Commit and push the generated README.md
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+          git add README.md
+          git commit -m "Update README from HTML"
           git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # Automatically provided token for pushing changes
+

@@ -37,7 +37,7 @@ jobs:
         run: |
           git config --global user.name "cowanweks"
           git config --global user.email "cowannwekesa@gmail.com"
-          git add README.md
+          git add -A README.md
           git commit -m "Update README from HTML"
           git push
         env:

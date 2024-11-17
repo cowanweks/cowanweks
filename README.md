@@ -18,7 +18,7 @@
 
 <main>
     <h3 align="left">Languages and Tools:</h3>
-<table style="border-collapse: collapse;">
+<table cellspacing="0" cellpadding="0" style="border: none; border-collapse: collapse;">
     <tr style="border: none;">
     <td style="border: none;"><a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>

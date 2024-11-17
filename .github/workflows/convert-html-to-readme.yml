@@ -31,7 +31,8 @@ jobs:
           python convert_html_to_markdown.py  # Run the conversion script
 
       - name: Configure git
-        run: git config --global user.name "cowanweks"
+        run: |
+          git config --global user.name "cowanweks"
           git config --global user.email "cowannwekesa@gmail.com"
 
       - name: Check Git status

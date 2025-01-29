@@ -77,6 +77,9 @@
 
 <tr>
 <a href="https://www.solidjs.com" rel="noreferrer" target="_blank">
+<img alt="solidjs" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidjs/solidjs-original.svg" width="40"/>
+</a>
+<a href="https://www.solidjs.com" rel="noreferrer" target="_blank">
 <img alt="solidjs" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
 </a>
 <a href="https://www.java.com" rel="noreferrer" target="_blank">
@@ -93,6 +96,9 @@
 </a>
 <a href="https://www.rust-lang.org" rel="noreferrer" target="_blank">
 <img alt="rust" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" width="40"/>
+</a>
+<a href="https://www.gnu.org/software/bash/" rel="noreferrer" target="_blank">
+<img alt="bash" height="40" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40"/>
 </a>
 <a href="https://www.cprogramming.com/" rel="noreferrer" target="_blank">
 <img alt="c" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/></a>
@@ -111,6 +117,9 @@
 </a>
 <a href="https://www.electronjs.org" rel="noreferrer" target="_blank">
 <img alt="electron" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" width="40"/>
+</a>
+<a href="https://expressjs.com" rel="noreferrer" target="_blank">
+<img alt="express" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40"/>
 </a>
 <a href="https://www.figma.com/" rel="noreferrer" target="_blank">
 <img alt="figma" height="40" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/>

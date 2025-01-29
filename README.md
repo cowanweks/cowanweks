@@ -26,17 +26,11 @@
 <a href="https://azure.microsoft.com/en-in/" rel="noreferrer" target="_blank">
 <img alt="azure" height="40" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40"/>
 </a>
-<a href="https://babeljs.io/" rel="noreferrer" target="_blank">
-<img alt="babel" height="40" src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" width="40"/>
-</a>
 <a href="https://www.nextjs.org" rel="noreferrer" target="_blank">
 <img alt="nextjs" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40"/>
 </a>
 <a href="https://reactnative.dev/" rel="noreferrer" target="_blank">
 <img alt="reactnative" height="40" src="https://reactnative.dev/img/header_logo.svg" width="40"/>
-</a>
-<a href="https://redux.js.org" rel="noreferrer" target="_blank">
-<img alt="redux" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40"/>
 </a>
 <a href="https://sass-lang.com" rel="noreferrer" target="_blank">
 <img alt="sass" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40"/>
@@ -52,9 +46,6 @@
 </a>
 <a href="https://www.typescriptlang.org/" rel="noreferrer" target="_blank">
 <img alt="typescript" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/>
-</a>
-<a href="https://webpack.js.org" rel="noreferrer" target="_blank">
-<img alt="webpack" height="40" src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" width="40"/>
 </a>
 <a href="https://www.axios.com" rel="noreferrer" target="_blank">
 <img alt="axios" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/axios/axios-plain.svg" width="40"/>
@@ -76,23 +67,14 @@
 </a>
 
 <tr>
-<a href="https://www.solidjs.com" rel="noreferrer" target="_blank">
-<img alt="solidjs" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidjs/solidjs-original.svg" width="40"/>
-</a>
-<a href="https://www.solidjs.com" rel="noreferrer" target="_blank">
-<img alt="solidjs" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
-</a>
-<a href="https://www.java.com" rel="noreferrer" target="_blank">
-<img alt="java" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" rel="noreferrer" target="_blank">
+<img alt="html" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
 </a>
 <a href="https://graphql.org" rel="noreferrer" target="_blank">
 <img alt="graphql" height="40" src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" width="40"/>
 </a>
 <a href="https://cmake.org" rel="noreferrer" target="_blank">
 <img alt="cmake" height="40" src="https://www.vectorlogo.zone/logos/cmake/cmake-icon.svg" width="40"/>
-</a>
-<a href="https://www.spring.io" rel="noreferrer" target="_blank">
-<img alt="make" height="40" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40"/>
 </a>
 <a href="https://www.rust-lang.org" rel="noreferrer" target="_blank">
 <img alt="rust" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" width="40"/>
@@ -153,9 +135,6 @@
 <img alt="nodejs" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
 </a>
 
-<a href="https://opencv.org/" rel="noreferrer" target="_blank">
-<img alt="opencv" height="40" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40"/>
-</a>
 <a href="https://www.postgresql.org" rel="noreferrer" target="_blank">
 <img alt="postgresql" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/>
 </a>

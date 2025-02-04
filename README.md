@@ -18,6 +18,8 @@
 </p>
 </header>
 <main class="px-4">
+<h3 class="px-4">Try Hackme Profile</h3>
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1867337" style="border:none;"></iframe>
 <h3 class="my-8">Languages and Tools:</h3>
 <div style="display: flex; gap: 32; flex-wrap: wrap;">
 <a href="https://aws.amazon.com" rel="noreferrer" target="_blank">
